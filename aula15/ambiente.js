@@ -14,7 +14,7 @@ for(let pos in num){
 
  
 console.log(`O tamanho do vetor é ${num.length}`)
-console.log(`Em ordem crescente ${num.sort()}`)
+//console.log(`Em ordem crescente ${num.sort()}`)
 console.log(`O valor 7 no array está na posição ${num.indexOf(7)} `)
 console.log('------')
 console.log(num)
