@@ -12,7 +12,7 @@ for(let pos in num){
     console.log(num[pos])
 }
 
- 
+console.log(`Existe esse numero? ${num(6)}`)
 console.log(`O tamanho do vetor é ${num.length}`)
 //console.log(`Em ordem crescente ${num.sort()}`)
 console.log(`O valor 7 no array está na posição ${num.indexOf(7)} `)
